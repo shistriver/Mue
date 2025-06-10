@@ -1,7 +1,7 @@
 # Mue
 是迷你版的Vue3框架
 
-使用 TypeScript 从0到1实现的迷你版Vue3框架 11
+使用 TypeScript 从0到1实现的迷你版Vue3框架
 
 使用的命令：
 npx init -y
